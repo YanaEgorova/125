@@ -1,0 +1,12 @@
+.hero__wrapper {
+  background-image: linear-gradient(to right, #fc4a1a, #fd6b12, #fc8712, #faa01f, #f7b733);
+}
+.hero  {
+  padding: 15rem 0;
+  text-align: center;
+}
+@media screen and (min-width: 1024px) {
+  .hero  {
+    padding: 25rem 0;
+  }
+}
